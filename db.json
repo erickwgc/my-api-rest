@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Camiseta",
+      "price": 134,
+      "image": "assets/images/camiseta.png",
+      "description": "bla bla bla bla bla"
+    },
+    {
+      "id": "2",
+      "title": "Hoodie",
+      "price": 200,
+      "image": "assets/images/hoodie.png",
+      "description": "bla bla bla bla bla"
+    },
+    {
+      "id": "3",
+      "title": "Mug",
+      "price": 300,
+      "image": "assets/images/mug.png",
+      "description": "bla bla bla bla bla"
+    },
+    {
+      "id": "4",
+      "title": "Pin",
+      "price": 180,
+      "image": "assets/images/pin.png",
+      "description": "bla bla bla bla bla"
+    },
+    {
+      "id": "5",
+      "title": "Stickers",
+      "price": 150,
+      "image": "assets/images/stickers1.png",
+      "description": "bla bla bla bla bla"
+    },
+    {
+      "id": "6",
+      "title": "Stickers",
+      "price": 210,
+      "image": "assets/images/stickers2.png",
+      "description": "bla bla bla bla bla"
+    },
+    {
+      "id": "19",
+      "image": "assets/images/mochila.png",
+      "title": "Mochila ",
+      "price": 270,
+      "description": "La mejor"
+    }
+  ]
+}
