@@ -1,53 +1,69 @@
-{
-  "products": [
+[
     {
-      "id": "1",
-      "title": "Camiseta",
-      "price": 134,
-      "image": "assets/images/camiseta.png",
-      "description": "bla bla bla bla bla"
+        "id"          : "1",
+        "materia"     : "Lenguaje",
+        "titulo"      : "Hacer 10 oraciones",
+        "descripcion" : "Para la materia de lenguaje realizar 10 oraciones e identificar sujeto y predicado",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/lenguaje%2Ftarea1.jpg?alt=media&token=c6ec0f99-0084-45b5-bd1f-57c539fbe809"
+    }, 
+    {
+        "id"          : "2",
+        "materia"     : "Lenguaje",
+        "titulo"      : "Hacer 20 oraciones",
+        "descripcion" : "Para la materia de lenguaje realizar 10 oraciones e identificar sujeto y predicado",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/lenguaje%2Ftarea2.jpg?alt=media&token=0b54891a-46c2-45fd-b42a-afb1f6939390"
     },
     {
-      "id": "2",
-      "title": "Hoodie",
-      "price": 200,
-      "image": "assets/images/hoodie.png",
-      "description": "bla bla bla bla bla"
+        "id"          : "3",
+        "materia"     : "Matematicas",
+        "titulo"      : "Memorizar la tabla de multiplicar",
+        "descripcion" : "Para la materia de matematicas, memorizar la tabla de multiplicar",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/matematicas%2Ftarea3.jpg?alt=media&token=cf27cd83-4437-4a39-a8a3-ffab3228c145"
     },
     {
-      "id": "3",
-      "title": "Mug",
-      "price": 300,
-      "image": "assets/images/mug.png",
-      "description": "bla bla bla bla bla"
+        "id"          : "4",
+        "materia"     : "Matematicas",
+        "titulo"      : "Practicar division",
+        "descripcion" : "Para la materia de matematicas, resolver los ejercicios de division",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/matematicas%2Ftarea3.jpg?alt=media&token=cf27cd83-4437-4a39-a8a3-ffab3228c145"
     },
     {
-      "id": "4",
-      "title": "Pin",
-      "price": 180,
-      "image": "assets/images/pin.png",
-      "description": "bla bla bla bla bla"
+        "id"          : "5",
+        "materia"     : "Matematicas",
+        "titulo"      : "Practicar descomposicion de factores primos",
+        "descripcion" : "Para la materia de matematicas, realizar los ejercicios de la imagen.",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/matematicas%2Ftarea4.jpg?alt=media&token=b925c2c3-3079-4bb1-b8e8-3aa011603cb8"
     },
     {
-      "id": "5",
-      "title": "Stickers",
-      "price": 150,
-      "image": "assets/images/stickers1.png",
-      "description": "bla bla bla bla bla"
+        "id"          : "6",
+        "materia"     : "Ciencas naturales",
+        "titulo"      : "Realizar resumen del tema 2 del libro",
+        "descripcion" : "Para la materia de Ciencias naturales, realizar el resumen del tema 2 del libro",
+        "recurso"     : ""
     },
     {
-      "id": "6",
-      "title": "Stickers",
-      "price": 210,
-      "image": "assets/images/stickers2.png",
-      "description": "bla bla bla bla bla"
-    },
-    {
-      "id": "19",
-      "image": "assets/images/mochila.png",
-      "title": "Mochila ",
-      "price": 270,
-      "description": "La mejor"
+        "id"          : "7",
+        "materia"     : "Ciencias naturales",
+        "titulo"      : "Realizar resumen del tema 3 del libro",
+        "descripcion" : "Para la materia de Ciencias naturales, realizar el resumen del tema 3 del libro",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/cienciasnaturales%2Ftarea1.jpg?alt=media&token=f3db2ac2-a66f-4598-ab4f-c58073018514"
+    },{
+        "id"          : "8",
+        "materia"     : "Estudios sociales",
+        "titulo"      : "Realizar resumen del libro del tema 6",
+        "descripcion" : "Para la materia de estudios sociales, resumir el tema 6 del libro",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/estudiossociales%2Ftarea1.jpg?alt=media&token=2ec1068a-2e64-4846-9fd1-ad8963d360c5"
+    },{
+        "id"          : "9",
+        "materia"     : "Estudios sociales",
+        "titulo"      : "Realizar resumen del libro del tema 7",
+        "descripcion" : "Para la materia de estudios sociales, resumir el tema 7 del libro",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/estudiossociales%2Ftarea2.png?alt=media&token=fecfc21a-46dd-4511-a33d-67d3bf702f92"
+    },{
+        "id"          : "10",
+        "materia"     : "Estudios sociales",
+        "titulo"      : "Realizar resumen del libro del tema 8",
+        "descripcion" : "Para la materia de estudios sociales, resumir el tema 8 del libro",
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/matematicas%2Ftarea3.jpg?alt=media&token=cf27cd83-4437-4a39-a8a3-ffab3228c145"
     }
-  ]
-}
+]
