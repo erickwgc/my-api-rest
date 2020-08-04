@@ -37,10 +37,10 @@
     },
     {
         "id"          : "6",
-        "materia"     : "Ciencas naturales",
+        "materia"     : "Ciencias naturales",
         "titulo"      : "Realizar resumen del tema 2 del libro",
         "descripcion" : "Para la materia de Ciencias naturales, realizar el resumen del tema 2 del libro",
-        "recurso"     : ""
+        "recurso"     : "https://firebasestorage.googleapis.com/v0/b/educatin-2d309.appspot.com/o/cienciasnaturales%2Ftarea2.jpg?alt=media&token=fed7fb99-6425-4ff3-948b-c5d5b49ac1f9"
     },
     {
         "id"          : "7",
