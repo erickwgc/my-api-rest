@@ -1,4 +1,258 @@
 {
+  
+  "questions":[
+    {
+        "id": "1",
+        "category": "Salud",
+        "description": "Ampliación Convenio Fonasa con Farmacias"
+    },
+     {
+        "id": "2",
+        "category": "Salud",
+        "description": "Rebaja en precio de alimentos de alta calidad nutricional, además establecer estrategias de publicidad"
+    },
+     {
+        "id": "3",
+        "category": "Salud",
+        "description": "Implementar sistema de pagador único"
+    },
+     {
+        "id": "4",
+        "category": "Salud",
+        "description": "Red de Cuidado para el Adulto Mayor"
+    },
+     {
+        "id": "5",
+        "category": "Salud",
+        "description": "Incluir en los Aranceles Fonasa los tratamientos Dentales"
+    },
+     {
+        "id": "6",
+        "category": "Salud",
+        "description": "Seguro Universal de Salud"
+    },
+     {
+        "id": "7",
+        "category": "Salud",
+        "description": "Aumnto de Cupos en Especialistas Médicas"
+    },
+     {
+        "id": "8",
+        "category": "Salud",
+        "description": "Eliminar obstáculos y castigos con las enfermedades pre-existentes en Isapres"
+    },
+     {
+        "id": "9",
+        "category": "Salud",
+        "description": "Creación de Farmacias Populares"
+    },
+     {
+        "id": "10",
+        "category": "Salud",
+        "description": "Limitar Precio o Ganancia de Medicamentos"
+    },
+     {
+        "id": "11",
+        "category": "Economía",
+        "description": "Estatitación del Litio"
+    },
+     {
+        "id": "12",
+        "category": "Economía",
+        "description": "Derogación de Ley de Pesca"
+    },
+     {
+        "id": "13",
+        "category": "Economía",
+        "description": "Diversificar la Economía"
+    },
+     {
+        "id": "14",
+        "category": "Economía",
+        "description": "Subsidio al precio de la electricidad"
+    },
+     {
+        "id": "15",
+        "category": "Economía",
+        "description": "Aumentar la Protección del Consumidor"
+    },
+     {
+        "id": "16",
+        "category": "Econimía",
+        "description": "Regularizar condiciones laborales de trabajadores de ciencia y tecnología"
+    },
+     {
+        "id": "17",
+        "category": "Economía",
+        "description": "Destinar más presupuesto a industria y desarrollo"
+    },
+    {
+        "id": "18",
+        "category": "Economía",
+        "description": "Sueldo a bomberos"
+    },
+    {
+        "id": "19",
+        "category": "Economía",
+        "description": "Diversificar la Economía"
+    },
+    {
+        "id": "20",
+        "category": "Economía",
+        "description": "Igualdad de sueldos para misma función"
+    },
+    {
+        "id": "21",
+        "category": "Medio Ambiente",
+        "description": "Adelantar Cierre de Termoeléctricas "
+    },
+    {
+        "id": "22",
+        "category": "Medio Ambiente",
+        "description": "Regulación y Fiscalización de Empresas en Zonas de Sacrificio"
+    },
+    {
+        "id": "23",
+        "category": "Medio Ambiente",
+        "description": "Aumento de Impuesto al Carbono"
+    },
+    {
+        "id": "24",
+        "category": "Medio Ambiente",
+        "description": "Aumento de actividades de forestación vegetal"
+    },
+    {
+        "id": "25",
+        "category": "Medio Ambiente",
+        "description": "Mayor inversión en Energías Limpias"
+    },
+    {
+        "id": "26",
+        "category": "Medio Ambiente",
+        "description": "Bolivia libre de carbono al 2040"
+    },
+    {
+        "id": "27",
+        "category": "Medio Ambiente",
+        "description": "Cárcel de 5 años para personas que provoquen incedios"
+    },
+    {
+        "id": "28",
+        "category": "Medio Ambiente",
+        "description": "Aumentar el presupuesto destinado a proyecto medioambientales"
+    },
+    {
+        "id": "29",
+        "category": "Medio Ambiente",
+        "description": "Incentivo al uso de bicicletas como medio de transporte"
+    },
+    {
+        "id": "30",
+        "category": "Medio Ambiente",
+        "description": "Construcción de ciclovías"
+    },
+    {
+        "id": "31",
+        "category": "Educación",
+        "description": "Promover Educación Bilingüe(Ingles)"
+    },
+    {
+        "id": "32",
+        "category": "Educación",
+        "description": "Impartir Lenguaje de señas obligatorio en los colegios"
+    },
+    {
+        "id": "33",
+        "category": "Educación",
+        "description": "Reestructuración de los programas curriculares de la educación técnica y universitaria"
+    },
+    {
+        "id": "34",
+        "category": "Educación",
+        "description": "Pagar la deuda histórica de docentes"
+    },
+    {
+        "id": "35",
+        "category": "Educación",
+        "description": "Aumento a Salario de Profesores"
+    },
+    {
+        "id": "36",
+        "category": "Educación",
+        "description": "Mejorar Educación Ténico Profesional"
+    },
+    {
+        "id": "37",
+        "category": "Educación",
+        "description": "Educación cívica en Educación Media"
+    },
+    {
+        "id": "38",
+        "category": "Educación",
+        "description": "Educación financiera en Educación Media"
+    },
+    {
+        "id": "39",
+        "category": "Educación",
+        "description": "Aumentar Inversión en Ciencia y Tecnología a 1% del PIB"
+    },
+    {
+        "id": "40",
+        "category": "Educación",
+        "description": "Reintegrar a la sociedad con la naturaleza, defendiendo nuevos significados del desarrollo, progreso y felicidad con una mirada cualitativa, comunitaria, valórica, creativa y espiritual"
+    },
+    {
+        "id": "41",
+        "category": "Laboral",
+        "description": "Tope porcentual a diferencia salarial dentro de empresas"
+    },
+    {
+        "id": "42",
+        "category": "Laboral",
+        "description": "Reducción de Jornada Laboral a 40 horas"
+    },
+    {
+        "id": "43",
+        "category": "Laboral",
+        "description": "Durante los primeros 120 días de cesantía, congelar los compromisos hipotecarios y comerciales del trabajador, impidiendo la mora, intereses y cobros durante ese periodo"
+    },
+    {
+        "id": "44",
+        "category": "Laboral",
+        "description": "Equipar gradualmente salario mínimo a países europeos con PIB similar al nuestro"
+    },
+    {
+        "id": "45",
+        "category": "Laboral",
+        "description": "Estandarización de sueldos profesionales según antigüedad y estudios"
+    },
+    {
+        "id": "46",
+        "category": "Laboral",
+        "description": "Aumentar el Sueldo Mínimo"
+    },
+    {
+        "id": "47",
+        "category": "Laboral",
+        "description": "Establecer sueldos mínimos diferenciados según Empresas o Industrias"
+    },
+    {
+        "id": "48",
+        "category": "Laboral",
+        "description": "Creación de bonos para reactivación económica"
+    },
+    {
+        "id": "49",
+        "category": "Laboral",
+        "description": "Incentivar el Emprendimiento"
+    },
+    {
+        "id": "50",
+        "category": "Laboral",
+        "description": "Reducir el precio de las Licencias de Funcionamiento para Comerciantes"
+    },
+  ]
+  ,
   "tareas":[
     {
         "id"          : "1",
